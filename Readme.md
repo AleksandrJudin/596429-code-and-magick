@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Александр Юдин](https://up.htmlacademy.ru/javascript/15/user/596429).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Ткачук`.
 
 ---
 
